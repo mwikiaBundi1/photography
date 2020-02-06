@@ -1,0 +1,22 @@
+#my-nav{
+font-size: medium;
+border-bottom:20px solid mediumorchid;
+background-color: khaki;
+}
+
+nav ul li{
+    font-size: medium;
+    display:inline-block;
+    float: right;
+    padding:0 20px 0 20px;
+}
+nav ul{
+    list-style-type:none;
+    margin:0;
+    padding: 0;
+    overflow: hidden;
+ }
+ h1{
+     background-color: khaki ;
+     font-style: italic;
+ }
