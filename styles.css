@@ -34,3 +34,10 @@ img{
 body{
     background-color: peru;
 }
+#Contact{
+    text-align: center;
+}
+#About{
+    text-align: center;
+    color: turquoise ;
+}
